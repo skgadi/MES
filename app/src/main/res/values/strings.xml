@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Multifactorial experiment simulator</string>
+    <string name="app_name_short">MES</string>
 </resources>
