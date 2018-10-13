@@ -5,7 +5,7 @@ This app is used to simulate multifactorial experiments for generating examples 
 The objective of this app is to give the offline access to the following web application.
 
 Web application: 
-https://skgadi.com/tools/multifactorial-experiment-simulator/
+https://github.skgadi.com/MES/
 
 
 This app is also available on the google playstore.
