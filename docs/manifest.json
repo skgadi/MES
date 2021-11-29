@@ -1,0 +1,17 @@
+{
+  "lang": "en-us",
+  "name": "Multifactorial experiment simulator - Suresh Kumar Gadi",
+  "short_name": "MES",
+  "description": "This tool allows user to simulate multifactorial experiments. The optimization result can be verified here: This tool provides an error of the estimated values for the factors.",
+  "start_url": "/",
+  "background_color": "#2f3d58",
+  "theme_color": "#2f3d58",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+      {
+          "src": "/android-chrome-512x512.png",
+          "sizes": "512x512"
+      }
+  ]
+}
